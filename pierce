@@ -1,0 +1,61 @@
+WEbsite.html
+Open with
+John LaPerch 
+(jlaperch@gmail.com)
+<!DOCTYPE html>
+<html>
+    <title>Pierce Marton</title>
+    	<font align="center" size="100" color="white">
+			<p>Pierce Marton</p>
+			<img src="http://static.wixstatic.com/media/988d79_e56b577c2edb4573b325357792433738.gif_srz_320_63_85_22_0.50_1.20_0.00_gif_srz">
+			<p>Welcome to my page</p>
+		</font>
+    <style>
+        .center {
+            margin: auto;
+            width: 70%
+        }
+        div {
+            border-right: 150px solid black;
+            border-left: 150px solid black;
+            border-top: 70px solid black;
+            border-bottom: 70px solid black;
+            height: 500px;
+            width: 900px;
+            background: white;
+            opacity: 0.55;
+            font: 50px Times New Roman;
+            text-align: center;
+        }
+        html {
+            background: url(http://bgfons.com/upload/wood%20_texture1053.jpg) no-repeat center center fixed;
+            background-size: cover;
+        }
+    </style>
+
+    <body>
+        <div class="center">
+            <p>Who am I?</p>
+            <p>I was born in France in 1998, so am currently 15, turning 16 in October on the 19th. I lived in france my whole life and this is my third year living in the U.S, and my second year at Forman.</p>
+        </div>
+    </body>;
+
+    <body>
+        <div class="center">
+            <p>My Interests</p>
+            <p>I have always been a huge fan of electronics wether it be video games or messing around on a computer. So, naturally, I love programming, I have always been trying to learn but only got to it somewhat recently. I also love Ultimate Frisbee</p>
+        </div>
+    </body>
+
+
+    <body align="center">
+        <img src="http://media.giphy.com/media/CfBql1PxBv8ic/giphy.gif">
+        <img src="http://netdna.webdesignerdepot.com/uploads/2013/04/Ceric2.gif">
+        <img src="http://www.thisiscolossal.com/wp-content/uploads/2014/03/120430.gif">
+        <img src="http://www.thisiscolossal.com/wp-content/uploads/2014/03/130309.gif">
+        <img src="http://i.imgur.com/FnpKZwv.gif">
+        <img src="http://i0.wp.com/www.arturogoga.com/wp-content/uploads/2013/04/dAtcCfH_thumb.gif?resize=700%2C700">
+    </body>
+
+</html>
+Displaying WEbsite.html.
